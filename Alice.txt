@@ -3,8 +3,6 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Adding a second line of code here.
 
-Hah - Line 5 added :D 
-
 Add Patrick Line for Master Rebase Testing
 
 Newest Entry :D
